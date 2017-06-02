@@ -1,5 +1,0 @@
-hi
-
-//new line
-
-hello
